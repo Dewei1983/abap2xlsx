@@ -101,13 +101,13 @@
       <TEXTPOOL>
        <ID>S</ID>
        <KEY>P_LANDS</KEY>
-       <ENTRY>        Querformat</ENTRY>
+       <ENTRY>Querformat</ENTRY>
        <LENGTH>18</LENGTH>
       </TEXTPOOL>
       <TEXTPOOL>
        <ID>S</ID>
        <KEY>P_PORTR</KEY>
-       <ENTRY>        Hochformat</ENTRY>
+       <ENTRY>Hochformat</ENTRY>
        <LENGTH>18</LENGTH>
       </TEXTPOOL>
       <TEXTPOOL>
